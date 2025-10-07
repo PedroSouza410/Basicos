@@ -1,0 +1,10 @@
+nome = (input("Digite seu nome: "))
+sobrenome = (input("Digite seu sobrenome: "))
+idade = int(input("Digite sua idade: "))
+telefone = int(input("Digite seu telefone: "))
+altura = float(input("Digite sua altura: "))
+print("Seu nome completo é: ", nome+sobrenome)
+print("Sua idade é: ", idade)
+print("Seu telefone é:", telefone)
+print("Sua altura é: ", altura)
+#coleta de dados/informações
